@@ -32,8 +32,7 @@ The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/rudravpatel
 
 ### Example Questions
 
-- What are the symptoms of COVID-19?
-- How to treat a common cold?
+- What are the symptoms of Eczema?
 - What are the symptoms of Diabetes?
 - What are the symptoms of the flu?
 
